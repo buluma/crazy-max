@@ -25,3 +25,9 @@ Always willing to learn new things.
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
+
+<!-- ## I Am
+
+![Metrics](/github-metrics.svg)
+# working version of metric
+<a href="https://metrics.lecoq.io/about/buluma" target="_blank"><img src="/github-metrics.svg" alt="Metrics" width="100%"></a> -->
