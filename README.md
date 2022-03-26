@@ -2,33 +2,28 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (2 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (4 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (4 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (4 days ago)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (5 days ago)
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules. (today)
+- [buluma/oraclelinux](https://github.com/buluma/oraclelinux) - Docker builds of Oracle Linux. (today)
+- [buluma/ubuntu](https://github.com/buluma/ubuntu) - Ubuntu Base Images (today)
+- [buluma/buluma.github.io](https://github.com/buluma/buluma.github.io) - Ansible Roles (today)
+- [buluma/centos](https://github.com/buluma/centos) - centos base images (today)
 
 #### 👨‍💻 Repositories I created recently
 
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
-- [crazy-max/buildkit-nofrontend](https://github.com/crazy-max/buildkit-nofrontend)
-- [crazy-max/docker-zig](https://github.com/crazy-max/docker-zig)
-- [crazy-max/dockerfile](https://github.com/crazy-max/dockerfile) - Official Dockerfile frontend that enables building Dockerfiles with BuildKit
+- [buluma/crazy-max](https://github.com/buluma/crazy-max)
+- [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) - GitHub Action to set up Docker Buildx
+- [buluma/docker-buildx](https://github.com/buluma/docker-buildx) - Docker Setup Buildx Test
+- [buluma/k8s-wordsmith-demo](https://github.com/buluma/k8s-wordsmith-demo) - Wordsmith is the demo project shown at DockerCon EU 2017 and 2018.
+- [buluma/example-voting-app](https://github.com/buluma/example-voting-app) - A simple distributed application running across multiple Docker containers.
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220323.2](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220323.2), 2 days ago) - GitHub Actions virtual environments
-- [moby/moby](https://github.com/moby/moby) ([v20.10.14](https://github.com/moby/moby/releases/tag/v20.10.14), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/buildx](https://github.com/docker/buildx) ([v0.8.1](https://github.com/docker/buildx/releases/tag/v0.8.1), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.9.0](https://github.com/crazy-max/goxx/releases/tag/v0.9.0), 6 days ago) - Go CGO cross-compiler Docker image
+- [buluma/gh-action-auto-merge-dependabot-updates](https://github.com/buluma/gh-action-auto-merge-dependabot-updates) ([1.0.4](https://github.com/buluma/gh-action-auto-merge-dependabot-updates/releases/tag/1.0.4), today) - A GitHub action that will automatically approve and merge a PR that only contains dependency updates, based on some rules.
+- [buluma/docker-github-action-graphviz](https://github.com/buluma/docker-github-action-graphviz) ([0.1.0](https://github.com/buluma/docker-github-action-graphviz/releases/tag/0.1.0), today) - The container to use in a GitHub action to create a png out of an Ansible requirements.yml.
+- [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.3](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.3), 1 day ago) - GitHub Action to set up Docker Buildx
+- [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.6), 1 day ago) - Install and configure zabbix_web on your system.
+- [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.5), 1 day ago) - Install and configure zabbix_server on your system.
 
 #### ❤️ Latest sponsors
-- [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
-- _Anonymous_ (1 month ago)
-- [sksat](https://github.com/sksat) (5 months ago)
-- [Batuhan Apaydın](https://github.com/developer-guy) (6 months ago)
-- [Madhur Shrimal](https://github.com/shrimalmadhur) (6 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
