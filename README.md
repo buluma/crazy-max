@@ -23,7 +23,3 @@
 - [buluma/setup-buildx-action](https://github.com/buluma/setup-buildx-action) ([0.1.3](https://github.com/buluma/setup-buildx-action/releases/tag/0.1.3), 1 day ago) - GitHub Action to set up Docker Buildx
 - [buluma/ansible-role-zabbix_web](https://github.com/buluma/ansible-role-zabbix_web) ([1.0.6](https://github.com/buluma/ansible-role-zabbix_web/releases/tag/1.0.6), 1 day ago) - Install and configure zabbix_web on your system.
 - [buluma/ansible-role-zabbix_server](https://github.com/buluma/ansible-role-zabbix_server) ([1.0.5](https://github.com/buluma/ansible-role-zabbix_server/releases/tag/1.0.5), 1 day ago) - Install and configure zabbix_server on your system.
-
-#### ❤️ Latest sponsors
-
-Thanks again for your support, it is much appreciated! 🙏
